@@ -1,0 +1,2 @@
+class InvaildMoveError < ArgumentError 
+end 
